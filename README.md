@@ -21,9 +21,7 @@
 
 - 🔭 I’m currently working as Automation QA lead
 - 🌱 I’m currently interested in Web3
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Python, Selenium, Automation testing, Jmeter, etc.
+- 💬 Feel free to ask me about Python, Selenium, Automation testing, Jmeter, etc.
 
 <!--
 ![Metrics](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/github-metrics.svg)
@@ -33,4 +31,6 @@
 **IgorDodukh/IgorDodukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
 -->
