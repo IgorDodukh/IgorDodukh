@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/IhorDodukh"><img src="https://api.daily.dev/devcards/def715f67df44eed8736dbb0579d0579.png?r=ydt" width="400" alt="Ihor's Dev Card"/></a>
+
 <!--
 **IgorDodukh/IgorDodukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
