@@ -20,7 +20,7 @@
 ## I am Ihor Dodukh
 
 - 🔭 I’m currently working as Automation QA lead
-- 🌱 I’m currently learning Web3
+- 🌱 I’m currently interested in Web3
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Python, Selenium, Automation testing, Jmeter, etc.
