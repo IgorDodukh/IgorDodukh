@@ -19,9 +19,8 @@
 
 ## I am Ihor Dodukh
 
-- 🔭 I’m currently working as Automation QA lead
-- 🌱 I’m currently interested in Web3
-- 💬 Feel free to ask me about Python, Selenium, Automation testing, Jmeter, etc.
+- 🔭 Working as Automation QA
+- 🌱 Interested in Web3
 
 <!--
 ![Metrics](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/github-metrics.svg)
