@@ -21,8 +21,8 @@
 
 - 🔭 Working as Automation QA
 - 🌱 Interested in Web3
-- 🤔 Looking for exciting projects
-- 🐶 Corgi owner
+- 🤔 Investigating new technologies
+- 🐶 Owner of the awesome dog
 
 <!--
 ![Metrics](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/github-metrics.svg)
